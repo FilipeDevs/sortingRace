@@ -1,0 +1,10 @@
+Main.class
+Model\SortAlgorithms.class
+Model\Model.class
+Model\SortTask.class
+Controller\Controller.class
+View\View.class
+dp\Observer.class
+Model\SortInfo.class
+dp\Observable.class
+View\FxmlController.class
